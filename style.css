@@ -127,9 +127,13 @@ ul li a{
 }
 }
 @media only screen and (min-width: 1520px) {
+    main img{
+        width: 20vw;
+
+    }
  .shopping-cart{
-    margin: 2vh 4vw;
-    width: 5vw;
+    margin: 2vh 15vw;
+    width: 2vw;
     }
   .search-bar input{
     margin-left: 3vw;
@@ -138,7 +142,7 @@ ul li a{
     }
     .search-bar input:hover{
         
-        width:35vw;
+        width:33vw;
     }
     .search-bar button{
         width: 2vw;
